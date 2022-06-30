@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    text-shadow:  black 0.1em 0.1em 0.2em;
+    padding-bottom: 70px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 80px;
+    color: #4a1564; 
+}
+
+form {
+    max-width: 450px;
+    margin: auto;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+div > a#primeiroLink {
+    margin: auto;
+    margin-top: 80px;
+    text-decoration: none;
+    color: #4a1564;  
+}
+
+span > a {
+    margin: auto;
+    margin-top: 5px;
+    text-decoration: none;
+    color: #4a1564;  
+}
+
+div a:hover {
+    color: #ffbf00;
+}
+
+div a#primeiroLink:hover {
+    color: #ffbf00;
+}
+
+div > iframe {
+    margin: auto;
+    margin-top: 10px;
+}
+
+.pull-right {
+    float: right !important;
+    margin-top: 20px;
+  }
